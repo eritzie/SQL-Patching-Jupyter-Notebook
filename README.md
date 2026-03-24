@@ -1,5 +1,5 @@
-# SQL-Patching-Jupyter-Notebook
-A PowerShell-based SQL Server monthly patching runbook built as a Jupyter notebook for Visual Studio Code. Automates patch compliance checks, service management, CU downloads, standalone and FCI patching, post-patch verification, and SQL Agent job execution using dbatools and kbupdate.
+# SQL Server Monthly Patching Runbook
+A Jupyter notebook for Visual Studio Code that walks through the full monthly SQL Server patch cycle, from compliance checks through post-patch verification. Built on dbatools and kbupdate, with each step as a discrete, executable cell.
 
 ## Requirements
 
