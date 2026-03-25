@@ -1,0 +1,17 @@
+# Python virtual environment
+.venv/
+__pycache__/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# PowerShell
+*.ps1xml
+
+# Patch files
+*.exe
+*.msp
+*.msi
